@@ -1,4 +1,4 @@
-# Hello world!
+*Hello world!*
 
 # Who am i?
 
@@ -14,7 +14,7 @@
 
 # 📫 Get in touch
 
-    [hiizun.codes](https://hiizun.codes)
+[hiizun.codes](https://hiizun.codes)
 
 # 🔭 Funny github stats
 
