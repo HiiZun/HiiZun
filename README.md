@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hello world!
+
+# Who am i?
+
+- My name is Marius
+- My username is HiiZun
+- I live in France 🇫🇷
+- I do mainly web apps (see [My projects](#projects))
+- 🔭 I’m currently working on [BladeBotList](https://bladebotlist.xyz)
+- 🌱 I’m currently learning *Web technlogoies*
+- 👯 I’m looking to collaborate on *opensource projects*
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: *i am on too many projects at the same time but if I leave too many of them they may all close down*
+
+# 📫 Get in touch
+
+    [hiizun.codes](https://hiizun.codes)
+
+# 🔭 Funny github stats
+
+![GH STATS](https://github-readme-stats.vercel.app/api?username=HiiZun&show_icons=true&count_private=true)
 
 <!--
 **HiiZun/HiiZun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
