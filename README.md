@@ -6,7 +6,7 @@
 - My username is HiiZun
 - I live in France 🇫🇷
 - I do mainly web apps (see [My projects](#projects))
-- 🔭 I’m currently working on [BladeBotList](https://bladebotlist.xyz)
+- 🔭 I’m currently working on [BladeBotList](https://bladebotlist.xyz) and [Youtube Bot](https://top.gg/bot/486948160124485642)
 - 🌱 I’m currently learning *Web technlogoies*
 - 👯 I’m looking to collaborate on *opensource projects*
 - 😄 Pronouns: he/his/him
