@@ -14,7 +14,7 @@
 
 # 📫 Get in touch
 
-[hiizun.codes](https://hiizun.codes)
+[hiizun.me](https://hiizun.me)
 
 # 🔭 Funny github stats
 
